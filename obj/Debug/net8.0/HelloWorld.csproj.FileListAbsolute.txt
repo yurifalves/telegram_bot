@@ -12,3 +12,7 @@ C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.d
 C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\Users\yurif\Área de Trabalho\HelloWorld\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\yurif\Área de Trabalho\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.Up2Date
